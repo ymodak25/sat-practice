@@ -1,0 +1,14 @@
+{
+  "name": "northstar-sat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An adaptive SAT practice workspace with optional AI-powered question generation.",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
